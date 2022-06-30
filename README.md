@@ -1,6 +1,5 @@
 - # Sobre mim
--  👍 Olá, meu nome e @tonyrobertbarankievicz
-- :smiley: Meu email de contato é antony.barankievicz@escola.pr.gov.br
+-  👍 Olá, meu nome e **@tonyrobertbarankievicz**
+- :smiley: Meu email de contato é [email](antony.barankievicz@escola.pr.gov.br)
 - 🌱 Estou interessado em aprender a programar novas linguagens.
 - :blue_heart: Estou aprendendo recentemente a programar a linguagem de javascript e scratch
--
