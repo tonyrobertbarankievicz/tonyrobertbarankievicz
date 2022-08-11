@@ -15,3 +15,23 @@
     <p>oferecemos profissionais e produtos de qualidade para trazer o melhor para os clientes, atendimento agil e rapido feito na hora
     </body>
     </html>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    body   {
+	background: #CCCCCC
+
+
+	P  
+   text-align: 	center;
+   ;
+
+
