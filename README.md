@@ -24,13 +24,17 @@
  
     
     
-     
-    body   {
-	background: #CCCCCC
+  
+   body {
+    background-color: white;
+}
 
+p {
+    text-align: center;
+}
 
-	P  
-   text-align: 	center;
-   ;
+em strong {
+    color: #FF0000;
+}
 
 
