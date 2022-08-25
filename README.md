@@ -3,19 +3,19 @@
     <head>
        <meta charset="UTF-8">
        <title>  CONFEITARIA </title>
-       <link rel="stylesheet" href="style.css" href="">
+       <link rel="stylesheet" href="style.css">
        <style >
            
        </style>
        </head>
 
               <body>
-              <h1> ''CONFEITARIA LA TRIPLE T''</H1>
+              <h1> <h1 style="text-align: center">''CONFEITARIA LA TRIPLE T''</H1>
 
-        <p>No coração da cidade de curitiba <strong> CONFEITARIA LA TRIPLE T. </strong> Não é só farinha e açucar. E amor confeitado!! 
+        <p> Localizada no coração da cidade de curitiba <strong> CONFEITARIA LA TRIPLE T. </strong> Não é só farinha e açucar. E amor confeitado!! 
    Foi fundada em 2022, a CONFEITARIA LA TRIPLE T já é destaque na cidade e conquista novos novos lugares a cada dia.</p>
 
-   <p  id="confeitaria><em>Nossa missão é: <strong>"Proporcionar conforto e carinho e destribuir amor aos clientes>></strong>.</em></p>
+   <p style="font-size: 20px"><em>Nossa missão é: <strong><font color="blue"> Proporcionar auto-estima e qualidade de vida aos clientes"</font></strong>.</em></p> 
 
     <p>oferecemos profissionais e produtos de qualidade para trazer o melhor para os clientes, atendimento agil e rapido feito na hora</p>
     </body>
